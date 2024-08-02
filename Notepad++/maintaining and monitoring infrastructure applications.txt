@@ -1,0 +1,70 @@
+About the job
+Are you looking for value-adding and impactful work?
+
+
+Do you want to make a difference with your expertise?
+
+
+With us, you’ll be able to make it happen.
+
+
+About NCS
+
+NCS is a leading technology services firm, operating across Asia Pacific in over 20 cities, providing services and solutions in consulting, digital services, technology, and more.
+We believe in utilizing the power of technology to make extraordinary things happen and to create lasting impact and value for our people, communities, and partners. Our diverse 12,000-strong workforce has delivered a wealth of large-scale, mission-critical, and multi-platform projects for governments and enterprises in Singapore and the APAC region.
+
+
+What we do
+
+We drive our passion for harnessing technology.
+
+We bring people and technology together.
+
+We advance communities and transform industries.
+
+
+
+We’re searching for AWS Cloud Engineer to be part of our diverse team of talent here at NCS!
+
+
+If you believe in going above and beyond, want to exemplify the best, and wish to bring people and technology together like never before, then we would love to talk with you!
+
+
+What will you be expected to do?
+
+Configuring, maintaining and monitoring infrastructure applications and services using Amazon Web Services (AWS)
+Troubleshooting and resolving issues with the cloud infrastructure
+Hands on experience in CI/CD, Terraform, Docker, Kubernetes, Helm, Linux (Redhat)
+Looking for professionals with 3+ years of experience in AWS DevOps cloud
+
+
+About NCS Group
+
+We want to create the extraordinary and to impact millions of people every day.
+We believe in building a talent-led delivery model to enable our best people to lead, and to support them with the right structure, processes, and tools to ensure that our clients are delivered top-quality services.
+We want to invest in you!
+
+Great work is never done alone, and that’s why we also believe in creating a collaborative work environment to bring people with different expertise and talent together.
+We create opportunities for our people to grow in our organization with well-defined career tracks and specializations to ensure that our people and talent can continuously deliver new value for our clients.
+
+
+We’re here to make the extraordinary happen.
+
+
+Learn more at ncs.co and our LinkedIn Career site.
+
+
+All profiles are handled with the highest level of confidentiality.
+Qualifications
+
+
+Apply to NCS Group
+
+67%
+Additional Questions
+How many years of work experience do you have with AWS Lambda?
+2
+How many years of work experience do you have with Terraform?
+2
+How many years of work experience do you have with API Gateways?
+1

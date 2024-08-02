@@ -1,0 +1,73 @@
+
+vi - Use vi editor
+[SYNOPSIS] vi FILE
+Switch Command mode/Input mode
+Key	Description
+i	insert words on the Cursor position
+a	insert words after the Cursor position
+I	insert words on the head of the line of Cursor position
+A	insert words on the last of the line of Cursor position
+o	insert words on the empty line inserted that is after Cursor position
+O	insert words on the empty line inserted that is before Cursor position
+[Esc]	switch to command mode
+
+Save/Quit
+Key	Description
+:w	save
+:w file	save as a file
+:q	quit without saving(confirmed)
+:q!	quit without saving(forcely)
+:wq	save and quit
+:e	back to the last saved
+:n	switch to other file if some files are opened
+:r file	read content of a file on current line
+:n,mw file	save as a file from n line to m line
+:n,mw>>file	add to a file from n line to m line
+
+Cursor operation
+Key	Description
+h (or) [←]	move to left
+l (or) [→]	move to right
+k (or) [↑]	move to above
+j (or) [↓]	move to below
+w	move to the head of next word
+b	move to the head of previous word
+0	move to the head of line
+$	move to the last of line
+G	move to the last line
+nG	move to n line
+H	move to the head of current screen
+nH	move to n line on current screen
+L	move to the last line on current screen
+nL	move to the line of "n"
+M	move to the head line on current screen
+
+Scrolling operation
+Key	Description
+[Ctrl] + f	scroll down for a screen
+[Ctrl] + b	scroll up for a screen
+[Ctrl] + d	scroll down for half of a screen
+[Ctrl] + u	scroll up for half of a screen
+
+Edit operation
+Key	Description
+x	delete a word on cursor
+X	delete a word before cursor
+yy	copy the current line into the buffer
+y$	copy from the cursor position to the end of the line into the buffer
+y0	copy from the head of line to the cursor position into the buffer
+yw	copy a word on cursor into the buffer
+p	paste the contents of the buffer after the cursor position
+P	paste the contents of the buffer before the cursor position
+dd	delete the current line
+d$	delete from the cursor position to the end of the line
+d0	delete from the head of the line to the cursor position
+dw	delete from the head of the line to the next word
+u	cancel the last operation
+U	cancel the last operation for a line
+
+Search operation
+Key	Description
+/ word [Enter]	search a word from the head of a file to the end
+? word [Enter]	search a word from the end of a file to the head
+n	search next after a result of searching

@@ -1,0 +1,43 @@
+Have you successfully developed solutions for large-scale Cloud adoption projects?
+Do you like architecting solution for a project?
+Are you confident in delivering the objectives within highly complex projects?
+
+We're looking for a DevOps/Cloud Engineer to:
+• understanding of Azure architecture and created solution using them.
+• hands-on experience in engineering Azure services for development team.
+• experience to automate the provisioning of environments using Terraform, Ansible and other tools
+• monitoring and toning the CI environment to ensure high availability, efficiency, scalability and traceability
+• expanding the adoption and integration of CI build chain - improving degree of automation for repetitive tasks and reporting
+• supporting technical concepts, effort estimations and feasibility studies
+• reference Implementation for latest Azure offerings that matches business requirement
+• focusing on Azure Subscription Cost Optimization, Policy, Governance best practices
+• interact with multiple Ops/Eng teams to productionize solutions
+
+Your team
+You'll be working in the GWM Operations Americas IT team in Pune, India. We analyze, develop and deliver solutions to maintain or change our IT systems with our business counterparts. As a Cloud SME, you'll play an important role in cloud journey for the wider team, which involves migrating existing and building new solution on Azure cloud. Our culture centers around partnership with our businesses, transparency, accountability, empowerment, and passion for the innovation and technology.
+
+Diversity helps us grow, together. That's why we are committed to fostering and advancing diversity, equity, and inclusion. It strengthens our business and brings value to our clients.
+
+Your expertise
+• strong analytic and problem solving skills
+• worked as a Cloud SME/Architect focusing on Cloud implementation for ideally 2 to 4 years • Azure development and architecture working experience in large and medium scale projects
+• experience in DevOps tools to deploy and configure infrastructure, Implement workloads and security on Azure
+• strong communicator, from making presentations to technical writing
+
+Good to Have:
+• Azure Developer Associate or Azure Solution Architect certification preferred
+• certified Kubernetes Application Developer (CKAD) certification is a plus
+
+About us
+UBS is the world's largest and the only truly global wealth manager. We operate through four business divisions: Global Wealth Management, Personal & Corporate Banking, Asset Management and the Investment Bank. Our global reach and the breadth of our expertise set us apart from our competitors..
+
+We have a presence in all major financial centers in more than 50 countries.
+
+How we hire
+We may request you to complete one or more assessments during the application process. Learn more
+
+Join us
+At UBS, we embrace flexible ways of working when the role permits. We offer different working arrangements like part-time, job-sharing and hybrid (office and home) working. Our purpose-led culture and global infrastructure help us connect, collaborate, and work together in agile ways to meet all our business needs.
+
+From gaining new experiences in different roles to acquiring fresh knowledge and skills, we know that great work is never done alone. We know that it's our people, with their unique backgrounds, skills, experience levels and interests, who drive our ongoing success. Together we're more than ourselves. Ready to be part of #teamUBS and make an impact?
+Job ID  297359BR

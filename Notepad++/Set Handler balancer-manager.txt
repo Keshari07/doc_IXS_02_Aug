@@ -1,0 +1,51 @@
+<Location /balancer-manager>
+Set Handler balancer-manager
+Order deny,allow
+Allow from all
+</Location>
+
+<IfModule mod_proxy_balancer.c>
+ServerName www.mycompany.com
+ProxyRequests off
+<Location /balancer-manager>
+Set Handler balancer-manager
+Order deny,allow
+Allow from all
+</Location>
+ProxyPass /balancer-manager !
+ProxyPass / balancer://mycluster/ stickysession=SESSION_ID
+<Proxy balancer://mycluster >
+BalancerMember http://192.168.80.22:82 loadfactor=4 route=node1
+BalancerMember http://192.168.80.30:80 loadfactor=6 route=node2
+# Load Balancer Settings
+# We will be configuring a simple Round
+# Robin style load balancer. This means
+# that all webheads take an equal share of
+# of the load.
+ProxySet lbmethod=byrequest
+</Proxy>
+</IfModule>
+
+
+
+
+
+
+<Proxy "balancer://mycluster">
+    BalancerMember "http://server1.example.com"
+    BalancerMember "http://server2.example.com"
+    ProxySet lbmethod=byrequests
+</Proxy>
+
+ProxyPass "/balancer-manager" "balancer://mycluster"
+ProxyPassReverse "/balancer-manager" "balancer://mycluster"
+
+
+<Proxy "balancer://mycluster">
+    BalancerMember "http://server1.example.com"
+    BalancerMember "http://server2.example.com"
+    ProxySet lbmethod=byrequests
+</Proxy>
+
+ProxyPass "/balancer-manager" "balancer://mycluster"
+ProxyPassReverse "/balancer-manager" "balancer://mycluster"

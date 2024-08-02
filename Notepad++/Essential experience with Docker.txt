@@ -1,0 +1,17 @@
+About the job
+About The Role
+
+We are actively seeking an Linux Admin, certified as Red Hat Architect and Red Hat Certified Engineer, and with 7+ years of experience in L2 or L3 Linux core Administration.
+
+Requirement
+
+ Essential experience with Docker, Ansible automation, Red Hat Satellite, and RHEL migration.
+ Responsible for the management and administration of Linux and AIX environments to ensure optimal system performance and availability.
+ Implementation and maintenance of robust security measures to safeguard AIX and Linux systems against unauthorized access and potential security threats.
+ Proficiency in using monitoring tools such as Dynatrace and SolarWinds.
+ Efficient management of ServiceNow tickets and workflows, with extensive experience in ITSM Change, Work Order, Incidents, and Problem Management.
+ Hands-on experience with Linux servers in virtualized environments, particularly VMware.
+ Creation and upkeep of comprehensive documentation covering AIX and Linux configurations, processes, and procedures.
+ Hardware knowledge encompassing Dell, HP, and Lenovo.
+ Familiarity with additional technologies like Infoblox, Podman, IDM, Tenable, OpenShift, and AIX is advantageous.
+ Red Hat Certified Architect and Red Hat Certified Engineer certifications are mandatory.

@@ -1,0 +1,14 @@
+Role: Linux Admin
+Must Have:
+Hands on experience in
+Linux server operating systems Administration(e.g., CentOS, Ubuntu, Red Hat). 
+Server virtualization technologies (e.g., KVM, VMware). 
+Strong command-line skills and troubleshooting abilities. 
+Experience with containerization technologies (e.g., Docker, Kubernetes). 
+Familiarity with configuration management tools (e.g., Ansible, Puppet). 
+Cloud platforms, such as AWS or Azure.
+Good To Have:
+Red Hat Certified Engineer (RHCE) or equivalent certification. 
+Knowledge and working experience of ITIL processes in BAU IT IS support 
+Good Written & verbal English communication skills.
+Qualifications

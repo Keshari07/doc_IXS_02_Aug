@@ -1,0 +1,38 @@
+How many years of work experience do you have with Windows Server?
+2
+How many years of work experience do you have with Operating Systems?
+
+About the job
+Role Summary: The L1 Windows/Linux System Administrator is responsible for providing
+first-level support and administration for Windows-based systems. This role involves
+troubleshooting basic issues, performing routine maintenance, and ensuring the
+stability and performance of the Windows environment.
+Key Responsibilities:
+• Provide first-level support for Windows-based systems.
+• Install, configure, and maintain Windows operating systems and applications.
+• Troubleshoot and resolve hardware and software issues.
+• Perform routine system maintenance and updates.
+• Monitor system performance and ensure compliance with security policies.
+• Assist in the setup and configuration of user accounts and permissions.
+• Respond to support requests in a timely and efficient manner.
+• Document all support activities and resolutions in the helpdesk system.
+• Collaborate with other IT team members to resolve complex issues.
+• Maintain an inventory of IT assets and manage software licenses.
+Required Skills and Qualifications:
+• Bachelor’s degree in Computer Science, Information Technology, or a related
+field.
+• Relevant certifications (e.g., MCSA, CompTIA A+) are preferred.
+• 1-2 years of experience in a similar role.
+• Proficient in Windows operating systems (Windows 10, Windows Server
+2016/2019).
+• Basic understanding of networking principles (TCP/IP, DNS, DHCP).
+• Strong troubleshooting and problem-solving skills.
+• Excellent communication and customer service skills.
+• Ability to work independently and as part of a team.
+
+
+Preferred Qualifications:
+
+Immediate joiners are highly preferred.
+
+

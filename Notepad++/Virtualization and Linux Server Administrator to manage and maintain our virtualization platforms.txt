@@ -1,0 +1,48 @@
+About the job
+Job Summary:
+We are seeking an experienced Virtualization and Linux Server Administrator to manage and maintain our virtualization platforms, Linux server environments, and provide support for various general IT responsibilities. The ideal candidate will have a strong background in managing virtualization platforms, proven experience with Linux operating systems, and familiarity with email platforms such as Zimbra, Office 365, and Google Apps.
+
+
+Main Responsibilities:
+
+Virtualization Platform Management:
+
+Configure and maintain virtualization platforms such as vSphere ESXi, vCenter, Hyper-V, and others.
+Configure and maintain datastores, vSwitches, and port groups.
+Schedule proactive activities and provide patching support.
+Configure and maintain backup and replication of VMs using various solutions (e.g., Veeam Backup).
+Linux Server Environment:
+
+Proven experience as a Linux operating systems, Server & Storage Administrator, or similar role.
+Proven experience with email platforms like Zimbra, Office 365, and Google Apps.
+Strong knowledge of Linux operating systems (e.g., Ubuntu, CentOS, Red Hat).
+Install, configure, and troubleshoot web servers (Apache2, Nginx, Tomcat).
+Familiarity with security tools and protocols (e.g., SELinux, iptables).
+Strong analytical and problem-solving skills.
+Ability to diagnose and resolve hardware and software issues efficiently.
+Ability to develop automation scripts for system management tasks.
+Apply system patches and updates to ensure a secure and up-to-date environment.
+Develop and implement backup strategies to safeguard critical data.
+Windows Server Environment (Preferred):
+
+Experience in managing Windows server environments and physical servers is an advantage.
+General Responsibilities:
+
+Maintain a definitive library for OS, applications, product guides, device firmware, etc.
+Maintain and update configuration documents.
+Maintain assets and software licenses/subscriptions.
+Coordinate and support vendor interactions.
+Maintain SLAs and perform timely escalations.
+Report all incident/service/change requests in the helpdesk tool.
+Provide after-hour support in case of emergencies and occasional weekend maintenance.
+
+
+Skills and Qualifications:
+
+Excellent troubleshooting skills.
+Proven experience as a Linux operating systems, Server & Storage Administrator, or similar role.
+Exceptional organizational and time-management skills.
+Strong communication abilities.
+VMware & Hyper-V virtualization management skills.
+Server & Storage management expertise.
+Reporting and documentation skills.

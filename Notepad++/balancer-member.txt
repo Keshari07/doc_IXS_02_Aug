@@ -1,0 +1,43 @@
+<VirtualHost *:80>
+    ServerAdmin webmaster@localhost
+    DocumentRoot /var/www/html
+
+    ProxyRequests off
+    ProxyPass / http://tomcat-cluster/
+    ProxyPassReverse / http://tomcat-cluster/
+
+    <Proxy "balancer://tomcat-cluster">
+        BalancerMember http://tomcat1:8080
+        BalancerMember http://tomcat2:8080
+        ProxySet lbmethod=byrequests
+    </Proxy>
+
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+</VirtualHost>
+
+
+
+  GNU nano 6.2                                                      /etc/hosts
+127.0.0.1       webmaster@localhost
+#127.0.0.1      localhost
+127.0.1.1       load-balancer
+
+127.0.0.1 tomcat1
+127.0.0.1 tomcat2
+
+	balancer-member
+192.168.142.165 clinetload
+192.168.142.166 clinetload1
+
+
+
+# Add tomcat1 and tomcat2 entries if needed
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+

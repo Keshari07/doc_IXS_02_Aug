@@ -1,0 +1,65 @@
+About the job
+TCS has been a great pioneer in feeding the fire of young techies like you. We are a global leader in the technology arena and there’s nothing that can stop us from growing together.
+
+
+What we are looking for
+
+Role: Windows Administrator
+
+Experience Range: 3 – 5 Years
+
+Location: Pune, Chennai
+
+
+
+Must Have:
+
+
+
+Handle all alerts not handled by 1L monitoring team
+ Handle all SOC alerts (if no multilanguage is required)
+ Handle assigned incidents and requests (certificates, …)
+Execute health checks not performed by 1L teams
+Identify gaps, collect and create knowledges for 1L and 2L and drive shift to left
+Maintain the alert instruction knowledge library, server info knowledge library, technical instruction knowledge library
+Alert finetuning/correlation activity
+Support SCOM management activity
+Various reporting included but not limited to problem identification, alerts analyses, capacity reporting, service delivery…
+Strictly follow the capacity management process
+Design document & rationales related to the tools in scope
+Configuration of any component
+Integration documentation
+Management pack documentation
+Operational procedure related to the tools in scope
+The resources will be reporting (on a daily basis) to the head of I&O 2L (or its delegate) and will be present during the (team) daily standup meeting
+Create/collect meeting minutes related to his activity and share it on demand with the customer. 
+Keep a detail action list and maintain a proper status
+
+
+Technology Stack:
+
+
+Windows technologies : Windows server, Hyper-V, clustering, SQL server, IIS server
+Cloud alerts : Microsoft Azure
+ITSM Tool : Heat
+Backup : Commvault
+Middleware : Biztalk
+System Center products : SCOM,SCCM,SCVM
+Network Monitoring : Spectrum
+HP OneView
+AppDynamics
+
+
+Other skills required for this role:
+
+
+ (1). Good ITIL Knowledge
+ (2). Good verbal/written communication skills 
+
+ (3). Experience working with agile methodologies
+
+
+
+
+Interested candidates pls share your cv to mailid: c.nayana@tcs.com with subject "Windows Administrator" for further Discussion.
+Qualifications

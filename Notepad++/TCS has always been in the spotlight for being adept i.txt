@@ -1,0 +1,52 @@
+Job Description
+
+TCS has always been in the spotlight for being adept in “the next big technologies”. What we can offer you is a space to explore varied technologies and quench your techie soul.
+
+
+What are we looking for?
+
+Must-Have
+
+Able to perform Server build & configuration
+Knowledge of LVM management and file system
+Perform Subscription and Patching the servers
+Network configuration and troubleshooting
+RedHat Linux cluster PCS
+Able to doKernel tuning
+Migration and upgradation
+Hardening the servers
+Server Troubleshooting - Permission issues, load on system, system hung, system services, log analysis and OS related issues
+Mail configuration, troubleshooting
+Software installation using RPM, Yast, Yum
+Vulnerability Assessment
+NTP and proxy configuration
+
+
+Good-to-Have:
+
+Good communication skills
+Ready to work in 24*7 environment.
+Flexible working approach
+Linux RHEL Certified Admin.
+Working knowledge of ITIL framework, Reporting
+Strong customer service skills.
+
+
+
+
+Additional Questions
+How many years of Information Technology experience do you currently have?
+3
+How many years of work experience do you have with SUSE Linux Enterprise Server (SLES)?
+How many years of work experience do you have with Red Hat Linux?
+1
+Are you comfortable working from/relocating to Delhi Location?
+
+
+
+Linux
+NetApp
+Red Hat Linux
+Shell Scripting
+Unix
+Are these skills re

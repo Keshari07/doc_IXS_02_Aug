@@ -1,0 +1,48 @@
+Job Title: Linux System Administrator
+
+Experience Required: 4+ Years
+Location: Remote
+
+
+Job Description:
+
+We are seeking a skilled and experienced Linux System Administrator to join our remote team. The ideal candidate will have over four years of experience in managing Linux systems and possess a strong technical background in various related domains. This role requires a proactive individual who can efficiently manage and optimize systems, troubleshoot issues, and ensure the security and reliability of our infrastructure.
+
+
+Key Responsibilities:
+
+Operating Systems: Proficiency in Linux and Windows operating systems.
+Networking: Understanding of network protocols (TCP/IP, DNS, DHCP), network configuration, and troubleshooting.
+Scripting and Automation: Experience with scripting languages such as Python, Bash, and PowerShell to automate tasks and improve efficiency.
+Security: Familiarity with cybersecurity principles, firewalls, VPNs, and security protocols.
+Virtualization: Experience with Proxmox VE and KVM.
+System Monitoring and Performance Tuning: Skills in using monitoring tools (e.g., Zabbix, LibreNMS) and optimizing system performance.
+Database Management: Basic understanding of database systems (MySQL, MariaDB, PostgreSQL, MS SQL) and their administration.
+Configuration Management: Experience with Ansible for managing system configurations.
+E-mail Management: Experience with protocols (SMTP, POP3, IMAP) and clients (Microsoft Outlook, Thunderbird, Apple Mail, iOS and Android clients).
+Control-panels: Experience with Plesk, DirectAdmin, and cPanel / WHM.
+Soft Skills:
+Problem-Solving: Ability to diagnose and resolve complex technical issues efficiently.
+Communication: Strong verbal and written communication skills to convey technical information clearly to non-technical stakeholders.
+Teamwork: Capability to work collaboratively within a team environment and across departments.
+Adaptability: Flexibility to adapt to new technologies, processes, and changing business needs.
+Attention to Detail: Precision in managing configurations, scripts, and documentation to avoid errors and ensure system reliability.
+Time Management: Efficiently managing time and prioritizing tasks to handle multiple projects and deadlines.
+Critical Thinking: Ability to analyze situations critically and make informed decisions.
+Customer Service Orientation: Willingness to assist and support end-users and clients, ensuring a positive user experience.
+Continuous Learning: Commitment to ongoing professional development and staying updated with the latest industry trends and technologies.
+
+
+Qualifications:
+
+4+ years of experience as a Linux System Administrator or in a similar role.
+Proficiency in Linux and Windows operating systems.
+Strong knowledge of network protocols, configuration, and troubleshooting.
+Experience with scripting languages (Python, Bash, PowerShell).
+Familiarity with cybersecurity principles and practices.
+Hands-on experience with Proxmox VE and KVM.
+Experience using monitoring tools (Zabbix, LibreNMS) and performance tuning.
+Basic understanding of database systems and administration.
+Experience with Ansible for configuration management.
+Knowledge of email protocols and clients.
+Familiarity with control panels such as Plesk, DirectAdmin, and cPanel / WHM.

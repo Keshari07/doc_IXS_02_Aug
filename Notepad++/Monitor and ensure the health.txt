@@ -1,0 +1,53 @@
+About the job
+Job Description: We are seeking a skilled System Administrator to join our IT team. The ideal candidate will have a strong background in system administration, virtualisation with understanding Office 365 experience and a passion for maintaining and optimising IT infrastructure. As a System Administrator, you will play a critical role in ensuring the stability, security, and efficiency of our systems
+
+
+Key Responsibilities:
+
+Monitor and ensure the health, performance, and security of servers, networks, and systems. 
+Perform regular system updates, patches, and backups. 
+Troubleshoot and resolve hardware, software, and network issues. 
+Log and track incident and service requests in ticketing system, ensures timely resolution and escalation when necessary. 
+Handling SecurView virtualisation infrastructure. 
+Install, configure, and manage active directory, group policy, DNS, DHCP, and other core services. 
+Support end-users by providing technical assistance and resolving IT-related problems. 
+Patch Management and compliance. 
+Anti-Virus/ EDR Management and host compliance. 
+Maintain IT documentation, including system configurations, procedures, and user guides. 
+Managing different vendors for IT requirements 
+Ensure compliance with IT policies, security protocols, and best practices. 
+Perform user onboarding and off boarding processes, including account creations, access provisioning, and software installations 
+Participate and collaborate with other team members to implement IT projects and improvements. 
+System OS installation, configuration and maintenance. 
+Active Directory Management 
+Manage and maintain Office 365 environment, including user accounts, permissions, and email services. 
+Install, configure, and maintain servers, storage systems, and other infrastructure components. 
+Monitor system performance and troubleshoot issues, ensuring maximum uptime and reliability. 
+Perform routine maintenance tasks, such as system updates, patches, and backups. 
+Experience with databases, networks (LAN, WAN), and patch management. 
+Co-ordinate with Network Security monitoring team for Incident resolution 
+Manage user accounts, permissions, and access controls. 
+Provide technical support and guidance to end users and other staff. 
+Participate in on-call rotation and respond to after-hours emergencies as needed. 
+Stay current with industry trends and best practices in system administration. 
+Troubleshoot hardware, software, and network issues, escalating to appropriate teams when necessary. 
+Set up and maintain user accounts and access permissions. 
+Monitor system performance and respond to alerts. 
+
+
+Requirements
+1+ years of experience in system administration or a similar role. 
+Bachelor’s degree in information technology, Computer Science, or related field 
+Proficiency in Windows and Linux server administration. 
+Experience with network management and troubleshooting (TCP/IP, DNS, DHCP, VPN, etc.). 
+Excellent communication and customer service skills 
+Understanding of virtualization technologies like VMware. 
+Excellent problem-solving skills and attention to detail. 
+Strong communication, interpersonal and analytical skills. 
+Ability to work independently and as part of a team. 
+Experience with hardware troubleshooting and repair. 
+Ability to work independently and as part of a team. 
+Relevant certifications (e.g., Microsoft Certified Systems Administrator, Red Hat Certified Engineer,). will be added advantage. 
+
+
+

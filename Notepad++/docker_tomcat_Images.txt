@@ -1,0 +1,5 @@
+tomcat:8.5
+
+
+docker run --name tomcat1 --network my_network -d tomcat:8.5
+docker run --name tomcat2 --network my_network -d tomcat:8.5

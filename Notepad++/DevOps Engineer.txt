@@ -1,0 +1,27 @@
+DevOps Engineer
+Gurugram, Haryana, India · 1 day ago · Over 100 applicants
+On-siteMatches your job preferences, workplace type is On-site.  Full-timeMatches your job preferences, job type is Full-time.
+1-10 employees
+10 of 10 skills match your profile - you may be a good fit
+See how you compare to over 100 other applicants. Try Premium for ₹0
+
+About the job
+Company Description
+
+Welcome to Adstia, a premier online lead generation and digital marketing agency located in Gurugram. We specialize in helping businesses leverage digital strategies to generate high-quality leads and achieve remarkable growth. With cutting-edge digital marketing expertise and advanced lead generation techniques, we provide tailored solutions to drive targeted traffic, nurture leads, and maximize conversions.
+
+
+Role Description
+
+Adstia is seeking a dedicated and skilled DevOps Engineer to join our team full-time on-site in Gurugram. In this role, you will play a crucial part in ensuring the seamless deployment and operation of our applications. You will be responsible for implementing infrastructure as code, software development, continuous integration, system administration, and Linux operations.
+
+
+Key Responsibilities:
+
+Design, build, and maintain scalable and reliable infrastructure using Infrastructure as Code (IaC) tools.
+Develop and manage CI/CD pipelines to automate testing, building, and deployment processes.
+Perform system administration tasks to ensure optimal performance and reliability of Linux-based systems.
+Manage and optimize cloud infrastructure to support our digital marketing initiatives.
+Implement and manage containerization technologies like Docker and Kubernetes.
+Collaborate with development and operations teams to streamline workflows and improve efficiency.
+Monitor system performance and troubleshoot issues to ensure high availability and performance.

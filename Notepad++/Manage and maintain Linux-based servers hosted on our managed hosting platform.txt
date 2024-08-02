@@ -1,0 +1,31 @@
+About the job
+MGT-Commerce is a Berlin-based company founded in 2010 that specializes in providing managed cloud hosting services for Magento e-commerce shops on top of Amazon Web Services (AWS). As an AWS Advanced Technology Partner, MGT-Commerce offers 24/7 expert support to clients worldwide, delivering optimized performance and security for Magento stores through their tailored technology stack and solutions. With a team of over 40 skilled engineers, MGT-Commerce has served more than 5,000 customers, helping them reach their full potential by leveraging the power of AWS cloud hosting and Magento expertise. The company's mission is to build long-lasting, trust-based relationships with clients and enable businesses to achieve greatness through their knowledge of cloud hosting management.
+
+
+We are looking for a skilled System Administrator with expertise in Linux and AWS to join our managed hosting team. The ideal candidate will be responsible for ensuring the smooth operation and security of our clients' systems hosted on our managed hosting platform.
+
+
+Responsibilities
+
+Manage and maintain Linux-based servers hosted on our managed hosting platform.
+Monitor system performance, troubleshoot issues, and ensure high availability and reliability for our clients' systems.
+Configure and maintain AWS cloud infrastructure to support our managed hosting services.
+Collaborate with clients to understand their hosting requirements and provide technical support and solutions.
+
+
+Qualifications
+
+Strong knowledge of Linux operating systems (e.g., CentOS, Ubuntu) and shell scripting.
+Strong knowledge of AWS services such as EC2, S3, RDS, and IAM.
+Familiarity with web hosting control panels is a plus.
+Excellent problem-solving skills and attention to detail.
+Ability to communicate technical concepts effectively with clients and team members.
+AWS certification (e.g., AWS Certified SysOps Administrator) is a plus.
+Qualifications
+5 of 5 skills match your profile - you may be a good fit
+Requirements added by the job poster
+0+ years of work experience with Linux
+0+ years of work experience with CentOS
+0+ years of work experience with Ubuntu
+Skills added by the job poster
+Amazon Web Services (AWS) · CentOS · Linux · Linux System Administration · Ubuntu

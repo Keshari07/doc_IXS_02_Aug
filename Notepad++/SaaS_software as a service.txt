@@ -1,0 +1,7 @@
+How to impleted real work Project using SaaS
+
+
+SaaS (software as a service)
+Collaboration And Accessibility: Software as a Service (SaaS) helps users to easily access applications without having the requirement of local installations. It is fully managed by the AWS Software working as a service over the internet encouraging effortless cooperation and ease of access.
+Automation of Updates: SaaS providers manage the handling of software maintenance with automatic latest updates ensuring users gain experience with the latest features and security patches.
+Cost Efficiency: SaaS acts as a cost-effective solution by reducing the overhead of IT support by eliminating the need for individual software licenses.

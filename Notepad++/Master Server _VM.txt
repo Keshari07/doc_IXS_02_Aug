@@ -1,0 +1,37 @@
+
+        Master Server 
+ Static hostname: ServerAdmin
+whoami  :::   balancer-member
+ IP Address == 192.168.142.161 
+
+docker0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        inet 172.17.0.1  netmask 255.255.0.0  broadcast 172.17.255.255
+
+
+
+      Clinet Load Balancier 1
+
+Username  :::  clinetload
+ Static hostname: BalancerMember-1
+
+whoami  :::    clinetload
+ IP Address ::::        192.168.142.165 
+ netmask 255.255.255.0 
+ broadcast 192.168.142.255
+clinetload@BalancerMember-1:~$ 
+
+""""Pass Golu@#8085"
+
+
+
+      Clinet Load Balancier 2
+
+Username ==  clinetload1
+ Static hostname:   BalancerMember-2
+whoami  :::   clinetload1
+ IP Address ::::  inet 192.168.142.166 
+ netmask 255.255.255.0 
+ broadcast 192.168.142.255
+clinetload1@BalancerMember-2:~$ 
+
+Pass Keshri@#8085

@@ -1,0 +1,66 @@
+
+DevOps Intern
+element8
+Kozhikode, Kerala
+Quick Apply
+Job Summary :
+
+As a DevOps Intern, you will support the DevOps team in maintaining tools, processes, and infrastructure for CI / CD and software automation.
+
+You'll gain hands-on experience optimizing the software development lifecycle and ensuring reliable software releases.
+
+Key Responsibilities :
+
+CI / CD :
+
+Assist in implementing and maintaining CI / CD pipelines.
+Monitor and improve CI / CD processes.
+Containerization and Orchestration :
+
+Learn and use Docker and Kubernetes for deployment and scaling.
+
+Monitoring and Logging :
+
+Help set up monitoring and logging systems.
+Assist in troubleshooting issues.
+Configuration Management :
+
+Support configuration file management and consistency.
+Participate in automating configuration changes.
+Security and Compliance :
+
+Learn and apply security best practices.
+Assist in ensuring compliance with standards.
+Collaboration and Communication :
+
+Work with developers, system admins, and QA engineers.
+Communicate effectively to foster collaboration.
+Documentation :
+
+Help maintain infrastructure and process documentation.
+Share knowledge with team members.
+Scripting and Automation :
+
+Write scripts to automate tasks.
+Contribute to operational efficiency improvements.
+Capacity Planning and Scalability :
+
+Assist in analyzing system performance and planning for scalability.
+Help optimize resource utilization.
+Qualifications :
+
+Pursuing a Bachelor’s in Computer Science, IT, or related field.
+Basic knowledge of scripting (e.g., Bash, Python).
+Familiarity with CI / CD tools (e.g., Jenkins, Git).
+Understanding of Docker and Kubernetes is a plus.
+Interest in Infrastructure as Code (IaC).
+Basic knowledge of cloud platforms (e.g., AWS, Azure).
+Awareness of security practices.
+Strong problem-solving skills.
+Effective communication and teamwork skills.
+Preferred Qualifications :
+
+Relevant coursework or projects in DevOps.
+Familiarity with agile methodologies.
+Knowledge of configuration management tools (e.g., Ansible).
+This internship offers a great opportunity to gain practical DevOps experience, working with experienced professionals to enhance your skills.
